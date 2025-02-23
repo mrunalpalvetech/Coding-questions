@@ -1,3 +1,5 @@
+package level1;
+
 import java.util.Scanner;
 import java.util.stream.Stream;
 
